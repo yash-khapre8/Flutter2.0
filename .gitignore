@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Flutter SDK local copies
+**/flutter_sdk/
+
+# Build artifacts and tools
+**/.dart_tool/
+**/build/
